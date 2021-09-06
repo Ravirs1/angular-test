@@ -1,0 +1,24 @@
+.card img {
+    height: 20rem;
+}
+
+.card-body h5 {
+    text-overflow: ellipsis;
+    overflow:hidden;
+    white-space:nowrap;
+}
+.row {
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+}
+.col-sm-4 {
+    margin-bottom: 1rem;
+}
+
+.container {
+    margin-top: 4rem;
+}
+
+.btn {
+    cursor: pointer;
+}
